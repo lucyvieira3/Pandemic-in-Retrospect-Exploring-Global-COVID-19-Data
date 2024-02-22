@@ -30,13 +30,12 @@ SUMMARY
 ![Dashboard 1](https://github.com/lucyvieira3/Pandemic-in-Retrospect-Exploring-Global-COVID-19-Data/assets/153330654/c067e8fe-38db-4464-92bd-7996a68da549)
 
 
-
 SOFTWARE USED
 Dbeaver 
 SQL 
 Tableau
 
-Dataset Used
+DATASET USED
 https://ourworldindata.org/covid-deaths
 
 This Repository holds all of the code and queries from this project. 
