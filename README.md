@@ -36,9 +36,7 @@ SUMMARY
 
 
 SOFTWARE USED:
-Dbeaver 
-SQL 
-Tableau
+Dbeaver - SQL, Tableau.
 
 DATASET USED
 https://ourworldindata.org/covid-deaths
