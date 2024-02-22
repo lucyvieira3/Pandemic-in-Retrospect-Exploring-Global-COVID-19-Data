@@ -25,12 +25,17 @@ APPROACH AND ANALYSIS
 3. To calculate the Percentage of population infected I joined both of the total deaths and total vaccinations table with the new updated data.
 4. Exported the data for visualization purposes on tableau as follow.
 
+TECHNICAL CHALLENGES
+1. The dataset being clean enough, we have missing values in the "region” column so
+they won’t be considered.
+
 SUMMARY
+1. Global statistics on Total Deaths, Total Cases, and Death Percentagem, Percentage Population Infected, and Highest Infection Count by country. 
 
 ![Dashboard 1](https://github.com/lucyvieira3/Pandemic-in-Retrospect-Exploring-Global-COVID-19-Data/assets/153330654/c067e8fe-38db-4464-92bd-7996a68da549)
 
 
-SOFTWARE USED
+SOFTWARE USED:
 Dbeaver 
 SQL 
 Tableau
