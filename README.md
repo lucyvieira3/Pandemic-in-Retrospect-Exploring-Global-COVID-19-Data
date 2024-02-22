@@ -8,12 +8,15 @@ QUESTIONS TO ANSWER
 
 HYPOTHESIS
 1. Globally the death percentage stayed at 2%.
+   
    <img width="274" alt="Screenshot 2024-02-22 at 10 17 55 AM" src="https://github.com/lucyvieira3/Pandemic-in-Retrospect-Exploring-Global-COVID-19-Data/assets/153330654/4de50726-0ba7-4b37-b28e-31b1da85ea99">
 
-2. Andorra, Czechia, Montenegro and San Marino were the countries with the highest % of infected population.
+3. Andorra, Czechia, Montenegro and San Marino were the countries with the highest % of infected population.
+   
    <img width="515" alt="Screenshot 2024-02-22 at 10 21 35 AM" src="https://github.com/lucyvieira3/Pandemic-in-Retrospect-Exploring-Global-COVID-19-Data/assets/153330654/271b3475-1b7b-42bd-841b-500675e49107">
    
-3. Russia, South Africa, Canada and North America are among the top countries with the highest infection rate.
+5. Russia, South Africa, Canada and North America are among the top countries with the highest infection rate.
+   
    <img width="685" alt="Screenshot 2024-02-22 at 10 21 26 AM" src="https://github.com/lucyvieira3/Pandemic-in-Retrospect-Exploring-Global-COVID-19-Data/assets/153330654/8dfd7fe9-945f-4600-8996-df37882d3782">
 
 APPROACH AND ANALYSIS
