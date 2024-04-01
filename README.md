@@ -30,7 +30,7 @@ TECHNICAL CHALLENGES
 they won’t be considered.
 
 SUMMARY
-1. Global statistics on Total Deaths, Total Cases, and Death Percentagem, Percentage Population Infected, and Highest Infection Count by country. 
+1. Global statistics on Total Deaths, Total Cases, and Death Percentage, Percentage Population Infected, and Highest Infection Count by country. 
 
 ![Dashboard 1](https://github.com/lucyvieira3/Pandemic-in-Retrospect-Exploring-Global-COVID-19-Data/assets/153330654/c067e8fe-38db-4464-92bd-7996a68da549)
 
